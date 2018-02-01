@@ -1,6 +1,6 @@
 {
   "name": "nuxt-package",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Starter node packages",
   "main": "index.js",
   "dependencies": {
