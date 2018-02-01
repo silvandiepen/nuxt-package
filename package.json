@@ -1,0 +1,36 @@
+{
+  "name": "nuxt-package",
+  "version": "0.0.1",
+  "description": "Starter node packages",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "flat": "^4.0.0",
+    "matise-grid": "^1.1.5",
+    "matise-stack": "^1.1.0",
+    "node-sass": "^4.7.2",
+    "postcss": "^6.0.16",
+    "sass-loader": "^6.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvandiepen/nuxt-package.git"
+  },
+  "keywords": [
+    "nuxt",
+    "vue",
+    "starter",
+    "node",
+    "packages"
+  ],
+  "author": "Sil van Diepen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvandiepen/nuxt-package/issues"
+  },
+  "homepage": "https://github.com/silvandiepen/nuxt-package#readme"
+}

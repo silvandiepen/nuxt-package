@@ -1,0 +1,13 @@
+{
+	"order": [],
+	"alphabetical": {
+		"top": false,
+		"sub": true
+	},
+	"titles": [{
+			"view": "content",
+			"title": "Content",
+			"hide": true
+		}
+	]
+}
